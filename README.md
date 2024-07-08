@@ -51,7 +51,7 @@ me.say()
 <h2>Hey, I'm <a href="https://github.com/kvlarbyte">kvlarbyte! (Aokage Hisoka)</a></h2>
 I'm super into tech and love diving into all sorts of tech stuff. whtever it's coding, hacking arround with cybersecurity, or messing with the latest gadgets and software, I'm always down to explore and learn more. Oh, and I also love gaming in my spare time! XD
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b>A little bit about me..<b></h2>
+<h2 align="center"><img src="./assets/cat.gif" width="50"> <b>A little bit about me..<b></h2>
 <a href="https://github.com/kvlarbyte"><img align="left" width="100" src="./assets/marin-chibi1.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime/donghua, reading manga/manhwa/manhua, and sometimes tinkering with random stuff like coding.
 
@@ -79,7 +79,7 @@ I'm a total beginner with zero experience :>, eager to learn and grow. Ready to 
 
 
 <h2 align="center"><b>📊 Github Stats<b></h2>
-<a href="https://github.com/kvlarbyte"><img align="left" width="80" src="https://media.tenor.com/DVGcH1FKdI8AAAAj/sono-bisque-doll-wa-koi-wo-suru-anime.gif"></a>
+<a href="https://github.com/kvlarbyte"><img align="left" width="80" src="./assets/marin-chan.gif"></a>
 <img align="right" width=400 src="https://moe-counter.glitch.me/get/@kvlarbyte?theme=rule34"></a>
 
 ```yaml

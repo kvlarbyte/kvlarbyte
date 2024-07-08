@@ -91,7 +91,7 @@ Hehe ~ another cutie has been caught.
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kvlarbyte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvlarbyte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-<h2 align="left"><b>📊 📫 Contact<b></h2>
+<h2 align="left"><b>📫 Contact<b></h2>
 
 - [@kvlarbyte](https://discord.com/users/kvlarbyte) **on Discord**
 - [@kvlarbyte](https://t.me/kvlarbyte) **on Telegram**

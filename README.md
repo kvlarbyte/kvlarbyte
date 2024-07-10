@@ -53,7 +53,7 @@ I'm super into tech and love diving into all sorts of tech stuff. whtever it's c
 
 <h2 align="center"><img src="./assets/cat.gif" width="50"> <b>A little bit about me..<b></h2>
 <a href="https://github.com/kvlarbyte"><img align="left" width="100" src="./assets/marin-chibi1.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime/donghua, reading manga/manhwa/manhua, and sometimes tinkering with random stuff like coding.
+I'm Hikikomori and my hobbies are playing games, watching anime/donghua, reading manga/manhwa/manhua, and sometimes tinkering with random stuff like coding.
 
 
 <h2 align="left"><b>☕ About me<b></h2>

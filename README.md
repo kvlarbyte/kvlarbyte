@@ -59,9 +59,9 @@ I'm super into tech and love diving into all sorts of tech stuff. whtever it's c
 
 - Name **Aokage Hisoka** / **青影密か**
 - I enjoy working on:
-  - 📊 Machine Learning (ML) & Data Scient
-  - 🖥️ Software Development
+  - 📊 Machine Learning (ML) & Data Science
   - 🛠 IoT (Internet of Things)
+  - 🖥️ Software Development
   - 🌐 Web Development
   - 🛡️ Cyber Security
   - etc..

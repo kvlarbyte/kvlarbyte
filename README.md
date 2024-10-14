@@ -56,8 +56,9 @@ I'm super into tech and love diving into all sorts of tech stuff. whtever it's c
 - Name **Aokage Hisoka** / **青影密か**
 - I like to learn:
    - 🛡️ Cyber Security
-   - 🛠️ Software Development
    - 🌐 IoT Development
+   - 🛠️ Software Development
+   - etc
 - Currently studying:
    - 🔐 Cryptography
    - 🧠 Brainf*ck

@@ -16,27 +16,23 @@
 ```python
 #!/usr/bin/python
 
-class Data:
+class WhoAmI:
     def __init__(self, name, email, languageSpoken):
         self.name = name
         self.email = email
         self.languageSpoken = languageSpoken
     
-    def Data(self):
+    def kvlarbyte(self):
         print("My Name    : ", self.name)
         print("My Email   : ", self.email)
         print("Language(s): ", ", ".join(self.languageSpoken) if isinstance(self.languageSpoken, list) else self.languageSpoken)
-    
-    def say(self):
-        print("~ Thanks for dropping by, hope u find some of my work interesting. :p")
 
 name = "Aokage Hisoka"
 email = "kvlarbyte@protonmail.com"
 language = ["en_US", "ja_JP", "ms_MY", "id_ID"]
 
-me = Data(name, email, language)
-me.Data()
-me.say()
+me = WhoAmI(name, email, language)
+me.kvlarbyte()
 ```
 ---
 <details>
@@ -58,14 +54,16 @@ I'm super into tech and love diving into all sorts of tech stuff. whtever it's c
 <a href="https://github.com/kvlarbyte"><img align="right" width="100" src="./assets/marin-chibi2.png"></a>
 
 - Name **Aokage Hisoka** / **青影密か**
-- I enjoy working on:
-  - 📊 Machine Learning (ML) & Data Science
-  - 🛠 IoT (Internet of Things)
-  - 🖥️ Software Development
-  - 🌐 Web Development
-  - 🛡️ Cyber Security
-  - etc..
-- I Understand Japanese (intermediate), Bahasa Indonesia (master), Melayu (advanced), and English (intermediate)
+- I like to learn:
+   🛡️ Cyber Security
+   🛠️ Software Development
+   🌐 IoT Development
+- Currently studying; Cryptography, Brainf*ck, Haskell, etc
+- Languages:
+   🇯🇵 Japanese (Intermediate)
+   🇮🇩 Indonesian (Master)
+   🇲🇾 Melayu (Advanced)
+   🇺🇸 US English (Intermediate)
 <br></br>
 
 <h2 align="right"><b>💻 Experience<b></h2>

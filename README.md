@@ -55,15 +55,19 @@ I'm super into tech and love diving into all sorts of tech stuff. whtever it's c
 
 - Name **Aokage Hisoka** / **青影密か**
 - I like to learn:
-   🛡️ Cyber Security
-   🛠️ Software Development
-   🌐 IoT Development
-- Currently studying; Cryptography, Brainf*ck, Haskell, etc
+   - 🛡️ Cyber Security
+   - 🛠️ Software Development
+   - 🌐 IoT Development
+- Currently studying:
+   - 🔐 Cryptography
+   - 🧠 Brainf*ck
+   - 🧑🏻‍💻 Haskell
+   - etc
 - Languages:
-   🇯🇵 Japanese (Intermediate)
-   🇮🇩 Indonesian (Master)
-   🇲🇾 Melayu (Advanced)
-   🇺🇸 US English (Intermediate)
+   - 🇯🇵 Japanese (Intermediate)
+   - 🇮🇩 Indonesian (Master)
+   - 🇲🇾 Melayu (Advanced)
+   - 🇺🇸 US English (Intermediate)
 <br></br>
 
 <h2 align="right"><b>💻 Experience<b></h2>

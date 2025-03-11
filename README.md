@@ -61,8 +61,6 @@ I'm super into tech and love diving into all sorts of tech stuff. whtever it's c
    - etc
 - Currently studying:
    - 🔐 Cryptography
-   - 🧠 Brainf*ck
-   - 🧑🏻‍💻 Haskell
    - etc
 - Languages:
    - 🇯🇵 Japanese (Intermediate)
